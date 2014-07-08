@@ -1,4 +1,4 @@
-JS-UI
+jTool
 =====
 
-Use Javascript Only.
+Javascript Common Tool.
